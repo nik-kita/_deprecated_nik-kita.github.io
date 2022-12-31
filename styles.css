@@ -1,11 +1,13 @@
 #container {
-  background-color: darkgreen;
+  background-color: black;
+  color: white;
   padding: 20px;
   display: flex;
   justify-content: space-between;
 }
 img {
-  width: 30%;
+  /* width: 30%;
+  height: 30%; */
   display: inline;
   border-radius: 49%;
   display: block;
