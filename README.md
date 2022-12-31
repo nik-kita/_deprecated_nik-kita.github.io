@@ -53,7 +53,14 @@
 * ### __Amazon Web Services__
 * ### __Nginx__
 
+## Additional, not primary skills:
+* React
+* Redux
+* Angular
+* NgRx
+* Java
 
-```bash
-name is Nik_
-```
+## Work experience:
+* ### Node.js developer [Selecto](#)
+* ### Node.js developer [Onix-systems](#)
+* ### Orchestra musician [Lviv National Philarmonia](#)
