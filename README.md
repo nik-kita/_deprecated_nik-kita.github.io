@@ -30,100 +30,101 @@
 ## Skills:
 
 <ul>
-    <li>
+    <li class="wrap">
         <h4>Typescript</H4>
-        <p>
+        <p class="no-show">
 The main language that I use during developing. Of course it means that I can write in `Javascript`. Also as some bonuses I have core understanding of `Java`, some experience in writing `bash` scripts, `Python`, when have a free time - learn `Rust`.
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Node.js</h4>
         <p>
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Nest.js</h4>
-            <p>
+            <p class="no-show">
 Because today this framework is a famous and power standard for backend developing I prefer to use it when possible. But of course I have a lot of experience working with `Express` and less with `Fastify`.
             </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Jest</h4>
         <p>
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Socket.io</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>WebSocket</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Bull Queue</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>RxJS</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>MongoDB</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>PostgreSQL</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Redis</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>GraphQL</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Stripe</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Nx monorepo-mannager</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Microservice architecture</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>GitHub actions</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Google Cloud Platform</h4>
-        <p>
+        <p class="no-show">
+        </p>
+    </li>
+    <li class="wrap">
+        <h4>Amazon Web Services</h4>
+        <p class="no-show">
         </p>
     </li>
     <li>
-        <h4>Amazon Web Services</h4>
-        <p>
-        </p>
-    </li>
         <h4>Nginx</h4>
-        <p>
+        <p class="no-show">
         </p>
     </li>
 </ul>
