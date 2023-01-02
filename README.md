@@ -57,11 +57,13 @@ I started my development career as a tester. So I really understand - that testi
     <li class="wrap">
         <h4>Socket.io</h4>
         <p class="no-show">
+I have some commercial experience but I prefer to use `Websocket` instead of `Socket.io`. My opinion - that `Socket.io` is a very cool framework (library?), but because `Websocket` is more native and in general the same - `Socket.io` is like sugar for developing, managing real-time apps with sockets. So I prefer to use `Websocket`, because I think it has some performance and standard benefits. 
         </p>
     </li>
     <li class="wrap">
         <h4>WebSocket</h4>
         <p class="no-show">
+The standard for developing and managing real-time applications with sockets. Also I have experience with use it as a main transport for messaging between microservices.
         </p>
     </li>
 </ul>
@@ -69,41 +71,49 @@ I started my development career as a tester. So I really understand - that testi
     <li class="wrap">
         <h4>Bull Queue</h4>
         <p class="no-show">
+Sometimes I worked with tasks where were media uploading or processing. Almost all of them need solutions where we should avoid scenarios when our server working with many heavy jobs at once, such situations are very dangerous. So queues will be very helpful. 
         </p>
     </li>
     <li class="wrap">
         <h4>RxJS</h4>
         <p class="no-show">
+I have core understanding and some experience.
         </p>
     </li>
         <li class="wrap">
         <h4>Puppeteer</h4>
         <p class="no-show">
+I have a lot of experience in automatization browser tasks, writing UI tests and grabbers. Because I had worked as QA automation at the begging of my career.
         </p>
     </li>
         <li class="wrap">
         <h4>Telegraf</h4>
         <p class="no-show">
+I have some experience with this technology (Telegram API in general) and that's all. However I saw that it's absolutely straightforward and very consistent with node specifics.   
         </p>
     </li>
     <li class="wrap">
         <h4>MongoDB</h4>
         <p class="no-show">
+This is my favorite database. It's very pleasure working on projects with it. However I think on mega projects it should be better to use `PostgreSQL`.
         </p>
     </li>
     <li class="wrap">
         <h4>PostgreSQL</h4>
         <p class="no-show">
+I always try to improve my skills in database architecture, SQL query building etc. Because this sphere is so important and wide. 
         </p>
     </li>
     <li class="wrap">
         <h4>Redis</h4>
         <p class="no-show">
+I think this is one of the standard for managing, caching, streaming, messaging data in real-time applications, with high-loading etc. Now Im improving my skills in deeper usage `raw` redis, not only common commands or through some SDK as redis.io. 
         </p>
     </li>
     <li class="wrap">
         <h4>GraphQL</h4>
         <p class="no-show">
+I have a lot of experience with working on projects with GraphQL, especially with Apollo. I think there are a lot of projects, that should use GraphQL API instead of REST http, however very often not all developers have enough level with it.
         </p>
     </li>
 </ul>
@@ -111,36 +121,43 @@ I started my development career as a tester. So I really understand - that testi
     <li class="wrap">
         <h4>Stripe</h4>
         <p class="no-show">
+During my career I made some payment scenarios using this technology. It's very modern, simple and powerful solution for developing and managing payments. 
         </p>
     </li>
     <li class="wrap">
         <h4>Nx monorepo-manager</h4>
         <p class="no-show">
+`Nest.js` has some cool out-of-the box solutions for managing microservice architecture. But when we want to store for example frontend and backend applications under the one repository, such tools like Nx are extremely useful.
         </p>
     </li>
     <li class="wrap">
         <h4>Microservice architecture</h4>
         <p class="no-show">
+I like to split any project to microservice architecture, because it multiply potential performance possibilities of project and also add more modularity and code clean. On many projects I worked with microservice architecture or developed separate microservice of existed project. 
         </p>
     </li>
     <li class="wrap">
         <h4>GitHub actions</h4>
         <p class="no-show">
+I have some experience with setting not complicated task, jobs.
         </p>
     </li>
     <li class="wrap">
         <h4>Google Cloud Platform</h4>
         <p class="no-show">
+I worked with firebase, google maps API, google drive API, cloud storage.
         </p>
     </li>
     <li class="wrap">
         <h4>Amazon Web Services</h4>
         <p class="no-show">
+I worked with EC2, Cloud9, S3. Also have experience in setting all these services, databases, gateways, rules etc.
         </p>
     </li>
     <li>
         <h4>Nginx</h4>
         <p class="no-show">
+I wrote some configurations for server, made some optimizations by delegating some start steps with request processing from main node server to Nginx.
         </p>
     </li>
 </ul>
@@ -153,10 +170,9 @@ I started my development career as a tester. So I really understand - that testi
 <ul>
 
 <li> React (minimal)</li>
-<li> Redux</li>
-<li> Angular (minimal)</li>
-<li> NgRx (minimal)</li>
-<li> Java (core)</li>
+<li> Redux (read all official tutorial, write some pet projects)</li>
+<li> Angular (even less than React)</li>
+<li> Java (fundamentals, core level)</li>
 </div>
 
 ## Work experience:
