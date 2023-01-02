@@ -27,7 +27,7 @@
     </div>
 </div>
 
-## Skills:
+<h2>Skills:</h2>
 
 <div class="flex-container">
 <ul>
@@ -179,13 +179,13 @@ With docker (and docker-compose) I worked as user, client. But I have little exp
 </ul>
 </div>
 
----
+<hr/>
 
-## Work experience:
+<h2>Work experience:</h2>
 
 <ul>
 
-## Node.js developer [Selecto](#)
-## Node.js developer [Onix-systems](#)
-## Orchestra musician [Lviv National Philarmonia](#)
+<li> Node.js developer <a href="#">Selecto</a></li>
+<li> Node.js developer <a href="#">Onix-systems</a></li>
+<li> Orchestra musician <a href="#">Lviv National Philharmonic</a></li>
 </ul>
