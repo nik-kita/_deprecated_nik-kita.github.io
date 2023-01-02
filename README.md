@@ -177,6 +177,9 @@ I wrote some configurations for server, made some optimizations by delegating so
 
 ## Work experience:
 
-- ### Node.js developer [Selecto](#)
-- ### Node.js developer [Onix-systems](#)
-- ### Orchestra musician [Lviv National Philarmonia](#)
+<ul>
+
+## Node.js developer [Selecto](#)
+## Node.js developer [Onix-systems](#)
+## Orchestra musician [Lviv National Philarmonia](#)
+</ul>
