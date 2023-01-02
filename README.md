@@ -28,6 +28,7 @@
 </div>
 
 ## Skills:
+
 <div class="flex-container">
 <ul>
     <li class="wrap">
@@ -169,10 +170,10 @@ I wrote some configurations for server, made some optimizations by delegating so
 <li> Redux (read all official tutorial, write some pet projects)</li>
 <li> Angular (even less than React)</li>
 <li> Java (fundamentals, core level)</li>
+</ul>
 </div>
 
 ---
-
 
 ## Work experience:
 
