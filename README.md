@@ -173,6 +173,9 @@ I wrote some configurations for server, made some optimizations by delegating so
 <li> Java (fundamentals, core level)</li>
 </div>
 
+---
+
+
 ## Work experience:
 
 - ### Node.js developer [Selecto](#)
