@@ -2,6 +2,7 @@
   background-color: black;
   color: white;
   padding: 20px;
+  margin-block-start: 10px;
 }
 
 .flex-container {
@@ -9,9 +10,13 @@
   justify-content: space-between;
 }
 
+img {
+  border-radius: 50%;
+}
+
 
 .no-show {
-  display: none;
+  /* display: none; */
   font-size: smaller;
   font-style: italic;
 }
