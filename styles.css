@@ -2,6 +2,9 @@
   background-color: black;
   color: white;
   padding: 20px;
+}
+
+.flex-container {
   display: flex;
   justify-content: space-between;
 }
@@ -13,7 +16,5 @@
   font-style: italic;
 }
 .wrap:hover > .no-show {
-  transition-delay: 1000ms;
-
   display: block;
 }
