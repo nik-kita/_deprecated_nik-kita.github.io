@@ -151,10 +151,16 @@ I worked with firebase, google maps API, google drive API, cloud storage.
 I worked with EC2, Cloud9, S3. Also have experience in setting all these services, databases, gateways, rules etc.
         </p>
     </li>
-    <li>
+    <li class="wrap">
         <h4>Nginx</h4>
         <p class="no-show">
 I wrote some configurations for server, made some optimizations by delegating some start steps with request processing from main node server to Nginx.
+        </p>
+    </li>
+        <li class="wrap">
+        <h4>Docker</h4>
+        <p class="no-show">
+With docker (and docker-compose) I worked as user, client. But I have little experience in writing own images too, but not complicated.
         </p>
     </li>
 </ul>
