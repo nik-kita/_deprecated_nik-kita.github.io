@@ -116,8 +116,6 @@ I think this is one of the standard for managing, caching, streaming, messaging 
 I have a lot of experience with working on projects with GraphQL, especially with Apollo. I think there are a lot of projects, that should use GraphQL API instead of REST http, however very often not all developers have enough level with it.
         </p>
     </li>
-</ul>
-<ul>
     <li class="wrap">
         <h4>Stripe</h4>
         <p class="no-show">
