@@ -66,8 +66,6 @@ I have some commercial experience but I prefer to use `Websocket` instead of `So
 The standard for developing and managing real-time applications with sockets. Also I have experience with use it as a main transport for messaging between microservices.
         </p>
     </li>
-</ul>
-<ul>
     <li class="wrap">
         <h4>Bull Queue</h4>
         <p class="no-show">
