@@ -86,6 +86,7 @@
 
 ## Work experience:
 
-- Node.js developer [Selecto](#)
-- Node.js developer [Onix-systems](#)
-- Orchestra musician [Lviv National Philharmonic](#)
+- Node.js developer [Selecto](#) April 2022 - January 2023
+- Node.js developer [Onix-systems](#) September 2019 - March 2022
+- Learn programming, finish some courses, experience as automation August 2018 - June 2019
+- Orchestra musician [Lviv National Philharmonic](#), [DaCapo Philharmonic](#) 2012 - May 2018

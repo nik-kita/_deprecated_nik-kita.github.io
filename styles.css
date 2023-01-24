@@ -1,6 +1,4 @@
 #header {
-  background-color: black;
-  color: white;
   padding: 20px;
   margin-block-start: 10px;
 }
@@ -10,8 +8,16 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 500px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
 img {
   border-radius: 50%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 
@@ -20,6 +26,7 @@ img {
   font-size: smaller;
   font-style: italic;
 }
-.wrap:hover > .no-show {
+
+.wrap:hover>.no-show {
   display: block;
 }
