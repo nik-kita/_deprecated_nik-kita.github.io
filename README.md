@@ -261,6 +261,9 @@ Onix-systems September
 Learn programming, finish some courses, experience as automation August 2018 - June 2019
   </summary>
 
+- CS50 Introduction to computer science (Harvard online course) 2018
+- Automation testing with Java (SoftServe Academy) Spring 2019
+
 </details>
 
 <details>
