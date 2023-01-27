@@ -38,87 +38,87 @@
 Typescript
   </summary>
 
-The main language that I use during developing. I know how to and like to maintain the typing of my code at a decent level, I always try to deepen my knowledge of typescript, follow new chips etc. Of course it means that I can write in `Javascript` too.
+> The main language that I use during developing. I know how to and like to maintain the typing of my code at a decent level, I always try to deepen my knowledge of typescript, follow new chips etc. Of course it means that I can write in `Javascript` too.
 </details>
 
 <details>
-<summary>
+  <summary>
 Node.js
-</summary>
+  </summary>
 
-The fundament of all technologies in my stack. Because of asynchronicity nature - node.js allow to achieve perfect performance results with minimum resource allocation. That's why it's so popular - you safe a lot of money! And the name `node` is speaking for itself - you may increase your capacities with horizontal (not vertical) scalability. This is very simple, flexible and powerful solution.
+>  The fundament of all technologies in my stack. Because of asynchronicity nature - node.js allow to achieve perfect performance results with minimum resource allocation. That's why it's so popular - you safe a lot of money! And the name `node` is speaking for itself - you may increase your capacities with horizontal (not vertical) scalability. This is very simple, flexible and powerful solution.
 </details>
 
 <details>
-<summary>
+  <summary>
 Nest.js
-</summary>
+  </summary>
 
-Because today this framework is a famous and architecture-beauty standard for backend developing I prefer to use it when possible. But of course I have a lot of experience working with `Express` and less with `Fastify`.
+>  Because today this framework is a famous and architecture-beauty standard for backend developing I prefer to use it when possible. But of course I have a lot of experience working with `Express` and less with `Fastify`.
 </details>
 
 <details>
-<summary>
+  <summary>
 Jest
-</summary>
+  </summary>
 
-I started my development career as a tester. So I really understand - that testing is the fundament of project's success especially in long-time perspective. Also it is a main part of serious CI/CD flows.
+>  I started my development career as a tester. So I really understand - that testing is the fundament of project's success especially in long-time perspective. Also it is a main part of serious CI/CD flows.
 </details>
 
 <details>
-<summary>
+  <summary>
 Socket.io
-</summary>
+  </summary>
 
-I have some commercial experience but I prefer to use `Websocket` instead of `Socket.io`. My opinion - that `Socket.io` is a very cool framework (library?), but because `Websocket` is more native and in general the same - `Socket.io` is like sugar for developing, managing real-time apps with sockets. So I prefer to use `Websocket`, because I think it has some performance and standard benefits.
+>  I have some commercial experience but I prefer to use `Websocket` instead of `Socket.io`. My opinion - that `Socket.io` is a very cool framework (library?), but because `Websocket` is more native and in general the same - `Socket.io` is like sugar for developing, managing real-time apps with sockets. So I prefer to use `Websocket`, because I think it has some performance and standard benefits.
 </details>
 
 <details>
-<summary>
+  <summary>
 WebSocket
-</summary>
+  </summary>
 
-The standard for developing and managing real-time applications with sockets. Also I have experience with use it as a main transport for messaging between microservices.
+>  The standard for developing and managing real-time applications with sockets. Also I have experience with use it as a main transport for messaging between microservices.
 </details>
 
 <details>
-<summary>
+  <summary>
 Bull Queue
-</summary>
+  </summary>
 
-Sometimes I worked with tasks where were media uploading or processing. Almost all of them need solutions where we should avoid scenarios when our server working with many heavy jobs at once, such situations are very dangerous. So queues will be very helpful.
+>  Sometimes I worked with tasks where were media uploading or processing. Almost all of them need solutions where we should avoid scenarios when our server working with many heavy jobs at once, such situations are very dangerous. So queues will be very helpful.
 </details>
 
 <details>
-<summary>
+  <summary>
 MongoDB
-</summary>
+  </summary>
 
-This is my favorite database. It's very pleasure working on projects with it. However I think on mega projects it should be better to use `PostgreSQL`.
+>  This is my favorite database. It's very pleasure working on projects with it. However I think on mega projects it should be better to use `PostgreSQL`.
 </details>
 
 <details>
-<summary>
+  <summary>
 PostgreSQL
-</summary>
+  </summary>
 
-I always try to improve my skills in database architecture, SQL query building etc. Because this sphere is so important and wide.
+>  I always try to improve my skills in database architecture, SQL query building etc. Because this sphere is so important and wide.
 </details>
 
 <details>
-<summary>
+  <summary>
 Redis
-</summary>
+  </summary>
 
-I think this is one of the standard for managing, caching, streaming, messaging data in real-time applications, with high-loading etc. Now Im improving my skills in deeper usage `raw` redis, not only common commands or through some SDK as redis.io.
+>  I think this is one of the standard for managing, caching, streaming, messaging data in real-time applications, with high-loading etc. Now Im improving my skills in deeper usage `raw` redis, not only common commands or through some SDK as redis.io.
 </details>
 
 <details>
-<summary>
+  <summary>
 GraphQL
-</summary>
+  </summary>
 
-I have a lot of experience with working on projects with GraphQL, especially with Apollo. I think there are a lot of projects, that should use GraphQL API instead of REST http, however very often not all developers have enough level with it.
+>  I have a lot of experience with working on projects with GraphQL, especially with Apollo. I think there are a lot of projects, that should use GraphQL API instead of REST http, however very often not all developers have enough level with it.
 </details>
 
 ---
@@ -126,84 +126,84 @@ I have a lot of experience with working on projects with GraphQL, especially wit
 ## Secondary skills:
 
 <details>
-<summary>
+  <summary>
 RxJS
-</summary>
+  </summary>
 
-I have core understanding and some experience.
+>  I have core understanding and some experience.
 I have a lot of experience in automatization browser tasks, writing UI tests and grabbers. Because I had worked as QA automation at the begging of my career.
 </details>
 
 <details>
-<summary>
+  <summary>
 Stripe
-</summary>
+  </summary>
 
-During my career I made some payment scenarios using this technology. It's very modern, simple and powerful solution for developing and managing payments.
+>  During my career I made some payment scenarios using this technology. It's very modern, simple and powerful solution for developing and managing payments.
 </details>
 
 <details>
-<summary>
+  <summary>
 Telegraf
-</summary>
+  </summary>
 
-I have some experience with this technology (Telegram API in general) and that's all. However I saw that it's absolutely straightforward and very consistent with node specifics.
+>  I have some experience with this technology (Telegram API in general) and that's all. However I saw that it's absolutely straightforward and very consistent with node specifics.
 </details>
 
 <details>
-<summary>
+  <summary>
 Nx monorepo-manager
-</summary>
+  </summary>
 
-`Nest.js` has some cool out-of-the box solutions for managing microservice architecture. But when we want to store for example frontend and backend applications under the one repository, such tools like Nx are extremely useful.
+>  `Nest.js` has some cool out-of-the box solutions for managing microservice architecture. But when we want to store for example frontend and backend applications under the one repository, such tools like Nx are extremely useful.
 </details>
 
 <details>
-<summary>
+  <summary>
 Microservice architecture
-</summary>
+  </summary>
 
-I like to split any project to microservice architecture, because it multiply potential performance possibilities of project and also add more modularity and code clean. On many projects I worked with microservice architecture or developed separate microservice of existed project.
+>  I like to split any project to microservice architecture, because it multiply potential performance possibilities of project and also add more modularity and code clean. On many projects I worked with microservice architecture or developed separate microservice of existed project.
 </details>
 
 <details>
-<summary>
+  <summary>
 GitHub actions
-</summary>
+  </summary>
 
-I have some experience with setting not complicated task, jobs.
+>  I have some experience with setting not complicated task, jobs.
 </details>
 
 <details>
-<summary>
+  <summary>
 Google Cloud Platform
-</summary>
+  </summary>
 
-I worked with firebase, google maps API, google drive API, cloud storage.
+>  I worked with firebase, google maps API, google drive API, cloud storage.
 </details>
 
 <details>
-<summary>
+  <summary>
 Amazon Web Services
-</summary>
+  </summary>
 
-I worked with EC2, Cloud9, S3. Also have experience in setting all these services, databases, gateways, rules etc.
+>  I worked with EC2, Cloud9, S3. Also have experience in setting all these services, databases, gateways, rules etc.
 </details>
 
 <details>
-<summary>
+  <summary>
 Nginx
-</summary>
+  </summary>
 
-I wrote some configurations for server, made some optimizations by delegating some start steps with request processing from main node server to Nginx.
+>  I wrote some configurations for server, made some optimizations by delegating some start steps with request processing from main node server to Nginx.
 </details>
 
 <details>
-<summary>
+  <summary>
 Docker
-</summary>
+  </summary>
 
-With docker (and docker-compose) I worked as user, client. But I have little experience in writing own images too, but not complicated.
+>  With docker (and docker-compose) I worked as user, client. But I have little experience in writing own images too, but not complicated.
 </details>
 
 ---
@@ -211,9 +211,9 @@ With docker (and docker-compose) I worked as user, client. But I have little exp
 ### Additional skills:
 
 <details>
-<summary>
+  <summary>
 Have some experience in frontend:
-</summary>
+  </summary>
 
 - React (minimal)
 - Redux (read all official tutorial, write some pet projects)
@@ -222,9 +222,9 @@ Have some experience in frontend:
 </details>
 
 <details>
-<summary>
+  <summary>
 Have some experience in other languages:
-</summary>
+  </summary>
 
 - Java (core)
 - Python (fundamentals, base level)
@@ -238,9 +238,8 @@ Have some experience in other languages:
 ## Work experience:
 
 <details open>
-<summary>
-Node.js developer <a href="#">
-Selecto</a>April 2022 - January 2023
+  <summary>
+Node.js developer <a href="#">Selecto </a>April 2022 - January 2023
   </summary>
 
   <a href="from-selecto-words.pdf" download="nik_moiseienko_selecto_reference.pdf">Reference letter</a>
@@ -249,9 +248,8 @@ Selecto</a>April 2022 - January 2023
 
 <details>
   <summary>
-Node.js developer<a href="#">
-Onix-systems September
-</a>2019 - March 2022
+Node.js developer <a href="#">
+Onix-systems September</a> 2019 - March 2022
   </summary>
 
 </details>
@@ -270,7 +268,7 @@ Learn programming, finish some courses, experience as automation August 2018 - J
   <summary>
 Orchestra musician <a href="#">
 Lviv National Philharmonic</a>, <a href="#">
-DaCapo Philharmonic</a>2012 - May 2018
+DaCapo Philharmonic</a> 2012 - May 2018
   </summary>
 
 </details>
