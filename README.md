@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css" />
 <div id="header" class="flex-container">
-    <img id="in-opera.ava" src="in-opera.ava.png" />
+    <img id="ava" src="in-opera.ava.png" />
     <div>
         <h2>Nikita Moiseienko</h2>
         <h3>Node.js developer</h3>
@@ -342,3 +342,6 @@ TODO
 TODO
 
 # [Download in PDF format](#TODO)
+
+
+<script src="engine.js"></script>
