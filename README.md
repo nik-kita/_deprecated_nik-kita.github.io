@@ -28,10 +28,36 @@
 </div>
 
 ---
+[PDF version](#download-in-pdf-format)
+
+[About](#about)
+
+[Skills](#primary-skills)
 
 [Work experience](#work-experience)
 
-## Primary skills:
+[Project experience](#project-experience)
+
+[Pet-project examples](#pet-project-examples)
+
+[Education](#education)
+
+[Courses](#additional-courses-internships)
+
+[Professional summary](#professional-summary)
+
+
+
+# About:
+TODO
+
+# Project experience:
+TODO
+
+
+# Pet-project examples:
+TODO
+# Primary skills:
 
 <details>
   <summary>
@@ -134,7 +160,7 @@ GraphQL
 
 ---
 
-## Secondary skills:
+# Secondary skills:
 
 <details>
   <summary>
@@ -229,7 +255,7 @@ Docker
 
 ---
 
-### Additional skills:
+# Additional skills:
 
 <details>
   <summary>
@@ -262,7 +288,7 @@ Have some experience in other languages:
 
 <div style="page-break-after: always;"></div>
 
-## Work experience:
+# Work experience:
 
 <details open>
   <summary>
@@ -304,3 +330,15 @@ DaCapo Philharmonic</a> 2012 - May 2018
 
 
 </details>
+
+# Education:
+TODO
+
+# Additional courses, internships:
+TODO
+
+
+# Professional summary
+TODO
+
+# [Download in PDF format](#TODO)
