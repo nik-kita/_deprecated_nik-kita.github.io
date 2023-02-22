@@ -28,7 +28,7 @@
 </div>
 
 ---
-[PDF version](#download-in-pdf-format)
+[PDF version](#TODO)
 
 [About](#about)
 
@@ -340,8 +340,6 @@ TODO
 
 # Professional summary
 TODO
-
-# [Download in PDF format](#TODO)
 
 
 <script src="engine.js"></script>
