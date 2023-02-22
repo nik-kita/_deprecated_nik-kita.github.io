@@ -260,6 +260,8 @@ Have some experience in other languages:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Work experience:
 
 <details open>
