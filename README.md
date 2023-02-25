@@ -29,7 +29,7 @@
 
 ---
 
-<h1><a>Download CV in pdf</a href="./nikita_moiseienko_nodejs.pdf" download></h1>
+<h1><a href="./nikita_moiseienko_nodejs.pdf" download>Download CV in pdf</a></h1>
 
 [About](#about)
 
