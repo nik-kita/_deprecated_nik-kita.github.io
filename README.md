@@ -18,6 +18,7 @@
             </a>
         </h5>
 <h5> Phone:
+            <a href="tel:+48506898737">506898737</a>
             <a href="tel:+380631172088">0631172088</a>
         </h5>
     </div>
@@ -29,7 +30,7 @@
 
 ---
 
-<h1><a href="./nikita_moiseienko_nodejs.pdf" download>Download CV in pdf</a></h1>
+<h1><a href="./nik_moiseienko_nodejs.pdf" download>Download CV in pdf</a></h1>
 
 [About](#about)
 
@@ -296,7 +297,7 @@ Have some experience in other languages:
 Node.js developer <a href="#">Selecto </a>April 2022 - January 2023
   </summary>
 
-  <a href="from-selecto-words.pdf" download="nik_moiseienko_selecto_reference.pdf">Reference letter</a>
+  <a href="selecto-reference-letter.pdf" download="selecto-reference-letter.pdf">Reference letter</a>
 
 
 </details>
