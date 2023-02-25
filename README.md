@@ -28,6 +28,7 @@
 </div>
 
 ---
+
 <h1><a>Download CV in pdf</a href="./nikita_moiseienko_nodejs.pdf" download></h1>
 
 [About](#about)
